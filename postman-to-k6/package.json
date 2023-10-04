@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "postman-to-k6": "^1.5.1"
+  }
+}
